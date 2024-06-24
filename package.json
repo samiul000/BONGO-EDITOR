@@ -27,7 +27,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "dev": "nodemon index.js",
+    "dev": "nodemon App.js",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
