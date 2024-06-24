@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/BONGO-EDITOR/static/css/main.01bb22d9.css",
+    "main.js": "/BONGO-EDITOR/static/js/main.d0b0f39a.js",
+    "static/js/453.6dc39f21.chunk.js": "/BONGO-EDITOR/static/js/453.6dc39f21.chunk.js",
+    "static/media/CSS.png": "/BONGO-EDITOR/static/media/CSS.4c132d518acbd3ad94c6.png",
+    "static/media/JavaScript.png": "/BONGO-EDITOR/static/media/JavaScript.9d49c14aee2e5babd15a.png",
+    "index.html": "/BONGO-EDITOR/index.html",
+    "main.01bb22d9.css.map": "/BONGO-EDITOR/static/css/main.01bb22d9.css.map",
+    "main.d0b0f39a.js.map": "/BONGO-EDITOR/static/js/main.d0b0f39a.js.map",
+    "453.6dc39f21.chunk.js.map": "/BONGO-EDITOR/static/js/453.6dc39f21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01bb22d9.css",
+    "static/js/main.d0b0f39a.js"
+  ]
+}
